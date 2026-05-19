@@ -1,0 +1,5 @@
+streamlit
+pandas
+databricks-sql-connector
+groq
+python-dotenv
